@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_c7862afc45def0168294c436e4d6186a6ba11bf8/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5305fb19b6893dff353374750ae8f5167b8c0e8d/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_9996155558de24f4fd9ca535e59b3d88fabe0969/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_8d582e32bd1c9e9d4f3ff7f9176b2a433ca2a38e/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_ebdae79445293192e34bb17d2b89e1899de9e0e1/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d13f7c0dea796d5fdf266b0cde642e399b0847da">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60de3b00ef97ef75cce526c65a427afb12f310b1/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2031e7e00584f259efa87929023fde0b0c9cc995">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_10da78648ebc639f24cd74e23090d884b83c6a70/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/AndroidSDK/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b08aac4c302fa676f7bf955108ce1b6e43313c1f/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_67d8340d0415e3e42b4a6fe38b6eafbefa555075/classes.dex" />
+    </item>
+    <item
+        jar="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/likewise-open/FRAMGIA/nguyen.quoc.huyb/Android/LibsGith/AppBlog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1b42dabdd8878035308532eb59180f3a270d2ad6/classes.dex" />
+    </item>
+
+</items>
